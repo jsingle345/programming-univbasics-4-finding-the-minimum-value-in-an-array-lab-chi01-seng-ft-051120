@@ -1,3 +1,6 @@
 def find_min_value(array)
-  # Add your solution here
+  count = 0 
+  while do 
+    count += 1
+  end
 end
