@@ -1,6 +1,11 @@
 def find_min_value(array)
   count = 0 
-  while do 
+  min_value = 1000
+  while array[count] < array.length do
+    if array[count] < min_value 
+      do min_value == array[count]
+    end 
     count += 1
   end
+  min_value
 end
